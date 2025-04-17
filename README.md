@@ -23,4 +23,4 @@ Context API for state management
 
 Recharts for data visualization
 
-Yahoo Finance API (or your chosen API) for stock prices
+Finnhub API (or your chosen API) for stock prices
