@@ -25,6 +25,3 @@ Recharts for data visualization
 
 Finnhub API (or your chosen API) for stock prices
 
-## ✨ Authors
-
-- [@TriptiShetty21](https://github.com/triptishetty21)
